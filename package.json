@@ -1,0 +1,30 @@
+{
+  "name": "shielda-captcha",
+  "version": "1.0.0",
+  "description": "Official Node.js SDK for Shielda Captcha (کتابخانه رسمی نودجی‌اس برای شیلدا کپچا)",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "shielda",
+    "captcha",
+    "security",
+    "bot-protection",
+    "express",
+    "fastify",
+    "nextjs",
+    "iran"
+  ],
+  "author": "Shielda Team <support@shielda.ir> (https://shielda.ir)",
+  "license": "MIT",
+  "homepage": "https://shielda.ir",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mojtabaghasemi/shielda-node.git"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
